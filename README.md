@@ -2,6 +2,9 @@
 
 A dynamic Next.js Expense Tracker for managing your expenses
 
+![image](https://github.com/user-attachments/assets/17c87e00-c04c-4f93-8777-11af3ba867ab)
+
+
 # Technologies Used
 1. NextJS for the UI Design/Backend framework.
 2. Neon/PostgreSQL for the Database Storage.
