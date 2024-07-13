@@ -19,6 +19,6 @@ A dynamic Next.js Expense Tracker for managing your expenses
 - After the dependencies are installed, we can individually run both ends.
   2. For running the app, execute `npm run dev` (running on port 3000).
 
-- The server folder contains a '.env' which has  the following environment variables:
+- The server folder contains a '.env' which has (to be created) with the following environment variables:
   1. **DATABASE_URL** - Your Neon/PostgreSQL DB URI (for storage purposes).
   2. **CLERK_KEYS** - The Clerk Authentication Keys referred from (https://dashboard.clerk.com/apps/).
