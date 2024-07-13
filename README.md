@@ -8,14 +8,14 @@ A dynamic Next.js Expense Tracker for managing your expenses
 3. Clerk for authentication.
 
 ## Libraries Used:
-- NextJS [Ref]{https://nextjs.org/docs}
-- Clerk for authentication [Ref]{https://dashboard.clerk.com/}
-- Prisma for ORM mapping [Ref]{https://www.prisma.io/}
-- Toastify (the obvious!) [Ref]{https://www.npmjs.com/package/react-toastify}
+- NextJS [Ref](https://nextjs.org/docs)
+- Clerk for authentication [Ref](https://dashboard.clerk.com/)
+- Prisma for ORM mapping [Ref](https://www.prisma.io/)
+- Toastify (the obvious!) [Ref](https://www.npmjs.com/package/react-toastify)
 
 
 ### Instructions (for execution):
-- For running both ends, we need to install the necessary dependencies, so run `npm install` on respective folders.
+- We must install the necessary dependencies for running the client, so run `npm install` on respective folders.
 - After the dependencies are installed, we can individually run both ends.
   2. For running the app, execute `npm run dev` (running on port 3000).
 
